@@ -1,0 +1,12 @@
+.my-button__container--first-override {
+  margin: 12px 20px;
+}
+
+.my-button__button--first-override {
+  border: 1px solid blue;
+  background-color: green;
+}
+
+.my-button__text--first-override {
+  font-size: 24px;
+}

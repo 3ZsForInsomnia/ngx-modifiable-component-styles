@@ -1,0 +1,14 @@
+.my-button__container {
+  margin: 6px 12px;
+}
+
+.my-button__button {
+  border: none;
+  background-color: lightblue;
+}
+
+.my-button__text {
+  font-size: 16px;
+  padding: 6px;
+  display: block;
+}
